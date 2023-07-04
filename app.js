@@ -13,8 +13,8 @@ var init_db = require('./model/init_db');
 var login = require('./routes/login');
 var products = require('./routes/products');
 
-var a = new String("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"); 
-//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
+var a = new String("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"); 
+
 var app = express();
 
 // config second logger
